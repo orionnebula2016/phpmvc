@@ -1,0 +1,15 @@
+{
+    "name": "mustafa/phpmvc",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "MUSTAFA ASKARY",
+            "email": "askaryhome2014@gmail.com"
+        }
+    ],
+    "require": {}
+}
